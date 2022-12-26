@@ -1,0 +1,5 @@
+numcharacters=48
+numLines=5
+numVowels=15
+numConsonants48
+numDigits3
